@@ -2,7 +2,7 @@ elevatorpitch
 =============
 
 ### Elevator Pitch Assignement
-Have you ever run out of battery on your electronic devices? We have the solution to avoid these situations. Our product enable charging the electronic devices where you want, and is very ecologic because use renewable energy. A part of this, the product doesn't need cables to charge the battery and is low-weight.
+Have you ever run out of battery on your electronic devices? We have the solution to avoid these situations. Our product enable charging the electronic devices where you want and  doesn't need cables to charge the battery . A part of this, the product have mainly two more advantages, his low-weight and which is charged by renewable energy.
 ###Index presentation
 Description of a index proposal
 
